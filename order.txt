@@ -1,0 +1,9 @@
+date:2 interval:1 room:2 stuid:1 name:王五 status:2
+date:5 interval:1 room:2 stuid:1 name:王五 status:0
+date:1 interval:2 room:1 stuid:5 name:李明 status:0
+date:4 interval:1 room:2 stuid:5 name:李明 status:3
+date:2 interval:2 room:2 stuid:1 name:王五 status:1
+date:1 interval:1 room:3 stuid:1 name:王五 status:3
+date:5 interval:1 room:2 stuid:1 name:王五 status:1
+date:2 interval:1 room:3 stuid:5 name:李明 status:1
+date:4 interval:2 room:1 stuid:5 name:李明 status:2
